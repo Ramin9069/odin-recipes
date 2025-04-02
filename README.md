@@ -1,1 +1,1 @@
-# odin-recipes
+this is my first project in the Odin Project and I am going to practice the basic knowledge i was studying during the foundation course.
